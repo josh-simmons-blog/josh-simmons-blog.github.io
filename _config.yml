@@ -1,13 +1,13 @@
 title: Josh Simmons - Blog # The title of the blog
-author: Josh Simmons # Your name 
+author: Josh Simmons # Your name
 email: jcpsimmons@gmail.com # your email shown in the footer
 url: https://jcsdesign.me # this is your site's root address.
 description: > # this means to ignore newlines until "show_excerpts:"
   A clean and minimalist theme for Jekyll.
-favicon: "./favicon.ico" # set the favicon of the site 
+favicon: "./favicon.ico" # set the favicon of the site
 
 show_excerpts: false # set to true to show excerpts on the homepage
-  
+
 # Moving date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 moving:
